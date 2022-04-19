@@ -2,7 +2,7 @@
 
 Next.js CRUD Example with React Hook Form
 ## Features :
-- Each user has id, name, email, published status.
+- Each user has id, firstName, lastName , email, password ,... published status.
 - We can create user, update information user, delete user.
 - There is a Search bar for finding user by name & email.
 - Ability to validate user add form values
