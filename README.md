@@ -1,15 +1,16 @@
-# next-js-10-crud-example
+# next-js-crud-example
 
 Next.js CRUD Example with React Hook Form
 ## Features :
 - Each user has id, name, email, published status.
 - We can create user, update information user, delete user.
 - There is a Search bar for finding user by name & email.
-- Set password for each user 
+- Ability to validate user add form values
 
 ### Technologies:
 - Programming Language: javaScript
 - FrontEnd Side:
+  - Next.js : A React framework for developing single page aplications using javascript or typescript
   - React hook Components
   - Managment application states with : Redux , Redux/toolkit
   - RestfulApi using async/await requests 
