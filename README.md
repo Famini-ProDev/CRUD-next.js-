@@ -41,7 +41,6 @@ Next.js CRUD Example with React Hook Form
   yarn start or npm start
 ```
 
-```
 ### About the application:
 
 The purpose of the web application is to list, create, modify, Search and delete.
